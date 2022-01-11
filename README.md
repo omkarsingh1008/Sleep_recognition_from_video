@@ -1,2 +1,2 @@
 # Sleep recognition from video
-Sleep recognition is based on moment detection.
+Sleep recognition is based on motion detection.
