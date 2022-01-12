@@ -1,3 +1,3 @@
 # Sleep recognition from video
 Sleep recognition is based on motion detection.
-![alt text](https://upload.wikimedia.org/wikipedia/commons/a/a1/Normal_posteroanterior_%28PA%29_chest_radiograph_%28X-ray%29.jpg)
+![alt text](https://github.com/omkarsingh1008/Sleep_recognition_from_video/blob/main/Screenshot%20from%202022-01-12%2015-43-02.png)
